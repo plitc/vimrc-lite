@@ -14,7 +14,7 @@ filetype indent on
 set tabstop=4
 set shiftwidth=4
 set expandtab
-set autoindent
+set noautoindent
 
 " schon 4 Zeilen bevor man den oberen/unteren Bildrand erreicht los scrollen
 set scrolloff=4
